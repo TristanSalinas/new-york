@@ -3,6 +3,8 @@
   src: url("/assets/Courgette-Regular.ttf");
 }
 
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600&display=swap");
+
 :root {
   --text-color: #444;
   --dark-blue: #003884;
@@ -33,7 +35,7 @@ footer {
 DEFAULT RULES
 *****************************************************/
 body {
-  font-family: sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   font-size: var(--font-size-default);
   line-height: 1.5;
   color: var(--text-color);
@@ -138,5 +140,4 @@ footer::before {
 
 .copyright {
   font-size: var(--fs-copyright);
-  color: --;
 }
