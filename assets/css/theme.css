@@ -138,6 +138,10 @@ footer::before {
   border-top: 2px solid var(--dark-blue);
 }
 
+footer i {
+  width: var(--size-social-icons);
+}
+
 .copyright {
   font-size: var(--fs-copyright);
 }
