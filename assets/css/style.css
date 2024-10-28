@@ -1,6 +1,6 @@
 @font-face {
   font-family: "courgette";
-  src: url("/assets/Courgette-Regular.ttf");
+  src: url("../Courgette-Regular.ttf");
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@600&display=swap");
